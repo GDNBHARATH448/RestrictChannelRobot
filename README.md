@@ -39,7 +39,7 @@ Can be found on telegram as [@RestrictChannelRobot](https://telegram.dog/Restric
 </p>
 
 ## Support   
-Join the [Telegram Group](https://t.me/DivideSupport) for support and the [Channel](https://t.me/DivideProjects) for updates.
+Join the [Telegram Group](https://t.me/kannada_chatting0) for support and the [Channel](https://t.me/IikiBots) for updates.
 
 Report bugs, give feature requests there...
 Do fork and star :star: the repository if you like it.
